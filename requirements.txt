@@ -1,0 +1,13 @@
+pydantic
+dishka
+fastapi[all]
+uvicorn
+SQLAlchemy[asyncio]
+alembic
+getgauge
+
+watchfiles
+pytest
+Faker
+pytest-asyncio
+psycopg
