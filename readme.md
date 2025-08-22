@@ -111,7 +111,7 @@ uvicorn app.main:app --reload
 
 
 # Источники
-Ниже привожу примеры работы и статьи, на которые я опирался, когда реализовывал проект.
+Ниже приведены примеры работ и статьи, на которые я опирался при реализации проекта.
 
 - [FastAPI Clean Example](https://github.com/ivan-borovets/fastapi-clean-example)
 - [Delivery Service](https://github.com/AKHQProduction/delivery_service)
